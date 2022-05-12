@@ -1,5 +1,10 @@
 h1 {
    color: red;
    font-size: 2rem;
-   font-style: italic
+   font-style: italic;
+}
+
+p {
+  color: #BADA55;
+  font-size: 2rem;
 }
